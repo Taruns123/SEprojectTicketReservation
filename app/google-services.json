@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136564403839",
+    "project_id": "train-reservation-cf5fb",
+    "storage_bucket": "train-reservation-cf5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136564403839:android:bb8837160c62a8236cd94a",
+        "android_client_info": {
+          "package_name": "com.example.ticketreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136564403839-cfnlemtc5lom6moupbajlm04c2mgkgq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1IAiJVfA8wcrueurExVeCz92bnvh3o3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136564403839-cfnlemtc5lom6moupbajlm04c2mgkgq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
